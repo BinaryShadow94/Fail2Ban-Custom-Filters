@@ -2,7 +2,7 @@
 
 ## **Description**
 
-This repository contains a series of custom filters for Fail2Ban written by me.
+This repository contains a series of custom filters for Fail2Ban.
 
 These filters are intended to improve the bastioning of our applications using fail2ban.
 
